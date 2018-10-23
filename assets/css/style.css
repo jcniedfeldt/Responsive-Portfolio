@@ -187,3 +187,16 @@ footer{
 .clearfix{
     overflow:auto;
 }
+
+
+@media only screen and (max-width: 980px){
+
+} 
+
+@media only screen and (max-width: 768px){
+    
+}
+
+@media only screen and (max-width: 640px){
+    
+}
